@@ -1,0 +1,17 @@
+ {
+   "expo": {
+    "name": "FakeTaxi",
+    "icon": "./assets/emilio.png",
+    "slug": "fake-taxi",
+    "sdkVersion": "31.0.0",
+    "version": "1.1.1",
+    "ios": {
+      "bundleIdentifier": "com.jearaneda.faketaxi"
+    },
+    "android": {
+      "package": "com.jearaneda.faketaxi",
+      "permissions" : [],
+      "versionCode": 2
+    }
+   }
+ }
